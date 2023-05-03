@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "chef_name": "Alice Smith",
+        "chef_picture": "https://example.com/alice_smith.jpg",
+        "years_of_experience": 10,
+        "number_of_recipes": 50,
+        "like": 10000,
+        "recipe_info": {
+            "recipe_name": "Classic Cheeseburger",
+            "ingredients": [
+                "ground beef",
+                "cheddar cheese",
+                "lettuce",
+                "tomato",
+                "onion",
+                "ketchup",
+                "mustard",
+                "mayonnaise"
+            ],
+            "cooking_method": "grilling",
+            "rating": 4.5
+        }
+    },
+    {
+        "id": 2,
+        "chef_name": "Bob Johnson",
+        "chef_picture": "https://example.com/bob_johnson.jpg",
+        "years_of_experience": 8,
+        "number_of_recipes": 30,
+        "like": 5000,
+        "recipe_info": {
+            "recipe_name": "Mac and Cheese",
+            "ingredients": [
+                "macaroni",
+                "cheddar cheese",
+                "milk",
+                "butter",
+                "flour",
+                "breadcrumbs"
+            ],
+            "cooking_method": "baking",
+            "rating": 4.0
+        }
+    },
+    {
+        "id": 3,
+        "chef_name": "Cathy Lee",
+        "chef_picture": "https://example.com/cathy_lee.jpg",
+        "years_of_experience": 5,
+        "number_of_recipes": 20,
+        "like": 3000,
+        "recipe_info": {
+            "recipe_name": "Chicken and Waffles",
+            "ingredients": [
+                "chicken breast",
+                "waffle mix",
+                "buttermilk",
+                "butter",
+                "syrup"
+            ],
+            "cooking_method": "frying",
+            "rating": 4.2
+        }
+    },
+    {
+        "id": 4,
+        "chef_name": "David Chen",
+        "chef_picture": "https://example.com/david_chen.jpg",
+        "years_of_experience": 12,
+        "number_of_recipes": 60,
+        "like": 15000,
+        "recipe_info": {
+            "recipe_name": "BBQ Ribs",
+            "ingredients": [
+                "pork ribs",
+                "BBQ sauce",
+                "brown sugar",
+                "garlic powder",
+                "onion powder",
+                "paprika",
+                "salt",
+                "pepper"
+            ],
+            "cooking_method": "smoking",
+            "rating": 4.7
+        }
+    },
+    {
+        "id": 5,
+        "chef_name": "Henry Lee",
+        "chef_picture": "https://example.com/henry_lee.jpg",
+        "years_of_experience": 6,
+        "number_of_recipes": 25,
+        "like": 4000,
+        "recipe_info": {
+            "recipe_name": "Chicago-Style Deep Dish Pizza Pie",
+            "ingredients": [
+                "flour",
+                "yeast",
+                "water",
+                "cornmeal",
+                "tomatoes",
+                "mozzarella cheese",
+                "parmesan cheese",
+                "sausage",
+                "olive oil"
+            ],
+            "cooking_method": "baking",
+            "rating": 4.6
+        }
+    },
+    {
+        "id": 6,
+        "chef_name": "Isabella Martinez",
+        "chef_picture": "https://example.com/isabella_martinez.jpg",
+        "years_of_experience": 4,
+        "number_of_recipes": 15,
+        "like": 2000,
+        "recipe_info": {
+            "recipe_name": "Slow Cooked Pulled Pork Sandwich",
+            "ingredients": [
+                "pork shoulder",
+                "BBQ sauce",
+                "brown sugar",
+                "garlic powder",
+                "onion powder",
+                "paprika",
+                "salt",
+                "pepper",
+                "buns"
+            ],
+            "cooking_method": "slow cooking",
+            "rating": 4.4
+        }
+    }
+]
