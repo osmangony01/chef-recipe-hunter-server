@@ -2,7 +2,7 @@
     {
         "id": 1,
         "chef_name": "Alice Smith",
-        "chef_picture": "https://example.com/alice_smith.jpg",
+        "chef_picture": "/images/chef1.jpg",
         "years_of_experience": 10,
         "number_of_recipes": 4,
         "like": 1500,
@@ -10,7 +10,7 @@
             {
                 "recipe_id": 1,
                 "recipe_name": "Classic Cheeseburger",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/classic_cheeseburger.jpg",
                 "ingredients": [
                     "Salt",
                     "Hamburger buns",
@@ -25,7 +25,7 @@
             {
                 "recipe_id": 2,
                 "recipe_name": "Mac and Cheese",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Mac_Cheese.jpg",
                 "ingredients": [
                     "Butter",
                     "Flour",
@@ -40,7 +40,7 @@
             {
                 "recipe_id": 3,
                 "recipe_name": "New England Clam Chowder",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/New_England_Clam_Chowder.jpg",
                 "ingredients": [
                     "Bacon",
                     "Onion",
@@ -56,7 +56,7 @@
             {
                 "recipe_id": 4,
                 "recipe_name": "Philly Cheesesteak",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Philly_Cheesesteak.jpg",
                 "ingredients": [
                     "Steak",
                     "Onion",
@@ -73,7 +73,7 @@
     {
         "id": 2,
         "chef_name": "Bob Johnson",
-        "chef_picture": "https://example.com/bob_johnson.jpg",
+        "chef_picture": "/images/chef2.jpg",
         "years_of_experience": 8,
         "number_of_recipes": 4,
         "like": 1600,
@@ -81,7 +81,7 @@
             {
                 "recipe_id": 5,
                 "recipe_name": "BBQ Pulled Pork Sandwiches",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/BBQ_Pulled_Pork_Sandwiches.jpeg",
                 "ingredients": [
                     "Pork shoulder",
                     "BBQ sauce",
@@ -96,7 +96,7 @@
             {
                 "recipe_id": 6,
                 "recipe_name": "Fried Catfish",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Fried_Catfish.jpg",
                 "ingredients": [
                     "Catfish fillets",
                     "Flour",
@@ -111,7 +111,7 @@
             {
                 "recipe_id": 7,
                 "recipe_name": "Chicago-Style Deep Dish Pizza",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Chicago_Style_Deep_Dish_Pizza.jpg",
                 "ingredients": [
                     "Pizza dough",
                     "Mozzarella cheese",
@@ -127,7 +127,7 @@
             {
                 "recipe_id": 8,
                 "recipe_name": "Meatloaf",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Meatloaf.jpg",
                 "ingredients": [
                     "Ground beef",
                     "Onion",
@@ -145,7 +145,7 @@
     {
         "id": 3,
         "chef_name": "Cathy Lee",
-        "chef_picture": "https://example.com/cathy_lee.jpg",
+        "chef_picture": "/images/chef3.png",
         "years_of_experience": 5,
         "number_of_recipes": 4,
         "like": 1800,
@@ -153,7 +153,7 @@
             {
                 "recipe_id": 9,
                 "recipe_name": "Cornbread",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Cornbread.jpg",
                 "ingredients": [
                     "Sugar",
                     "Baking powder",
@@ -168,7 +168,7 @@
             {
                 "recipe_id": 10,
                 "recipe_name": "Philly Cheesesteak",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Philly_Cheesesteak.jpg",
                 "ingredients": [
                     "Steak",
                     "Onion",
@@ -183,7 +183,7 @@
             {
                 "recipe_id": 11,
                 "recipe_name": "Buttermilk Pancakes",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Buttermilk_Pancakes.jpg",
                 "ingredients": [
                     "Flour",
                     "Sugar",
@@ -199,7 +199,7 @@
             {
                 "recipe_id": 12,
                 "recipe_name": "Beef Stroganoff",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Beef_Stroganoff.jpg",
                 "ingredients": [
                     "Beef tenderloin",
                     "Onion",
@@ -217,7 +217,7 @@
     {
         "id": 4,
         "chef_name": "David Chen",
-        "chef_picture": "https://example.com/david_chen.jpg",
+        "chef_picture": "/images/chef4.jpg",
         "years_of_experience": 8,
         "number_of_recipes": 4,
         "like": 1700,
@@ -225,7 +225,7 @@
             {
                 "recipe_id": 13,
                 "recipe_name": "Red Beans and Rice",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Red_Beans_and_Rice.jpg",
                 "ingredients": [
                     "Red beans",
                     "Sausage",
@@ -241,7 +241,7 @@
             {
                 "recipe_id": 14,
                 "recipe_name": "Meatloaf",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Meatloaf.jpg",
                 "ingredients": [
                     "Ground beef",
                     "Egg",
@@ -256,7 +256,7 @@
             {
                 "recipe_id": 15,
                 "recipe_name": "Corn on the Cob",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Corn_on_the_Cob.jpg",
                 "ingredients": [
                     "Corn",
                     "Butter",
@@ -270,7 +270,7 @@
             {
                 "recipe_id": 16,
                 "recipe_name": "Beef Stroganoff",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Beef_Stroganoff.jpg",
                 "ingredients": [
                     "Beef tenderloin",
                     "Beef broth",
@@ -287,7 +287,7 @@
     {
         "id": 5,
         "chef_name": "Henry Lee",
-        "chef_picture": "https://example.com/henry_lee.jpg",
+        "chef_picture": "/images/chef5.jpg",
         "years_of_experience": 6,
         "number_of_recipes": 4,
         "like": 1900,
@@ -295,7 +295,7 @@
             {
                 "recipe_id": 17,
                 "recipe_name": "Biscuits and Gravy",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Biscuits_and_Gravy.jpg",
                 "ingredients": [
                     "Flour",
                     "Baking powder",
@@ -311,7 +311,7 @@
             {
                 "recipe_id": 18,
                 "recipe_name": "Buffalo Wings",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Buffalo_Wings.jpg",
                 "ingredients": [
                     "Chicken wings",
                     "Flour",
@@ -325,7 +325,7 @@
             },
             {
                 "recipe_id": 19,
-                "recipe_img": "https://example.com/recipe011.jpg",
+                "recipe_img": "/images/recipes/Shrimp_and_Grits.jpg",
                 "recipe_name": "Shrimp and Grits",
                 "ingredients": [
                     "shrimp",
@@ -341,7 +341,7 @@
             {
                 "recipe_id": 20,
                 "recipe_name": "Chicken and Waffles",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Chicken_and_Waffles.jpeg",
                 "ingredients": [
                     "chicken breast",
                     "waffle mix",
@@ -357,14 +357,14 @@
     {
         "id": 6,
         "chef_name": "Isabella Martinez",
-        "chef_picture": "https://example.com/isabella_martinez.jpg",
+        "chef_picture": "/images/chef1.jpg",
         "years_of_experience": 4,
         "number_of_recipes": 4,
         "like": 1200,
         "recipe_info": [
             {
                 "recipe_id": 21,
-                "recipe_img": "https://example.com/recipe008.jpg",
+                "recipe_img": "/images/recipes/Pecan_Pie.jpg",
                 "recipe_name": "Pecan Pie",
                 "ingredients": [
                     "pie crust",
@@ -379,7 +379,7 @@
             },
             {
                 "recipe_id": 22,
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/BBQ_Ribs.jpg",
                 "recipe_name": "BBQ Ribs",
                 "ingredients": [
                     "pork ribs",
@@ -395,7 +395,7 @@
             {
                 "recipe_id": 23,
                 "recipe_name": "Chicken and Waffles",
-                "recipe_img": "https://example.com/recipe006.jpg",
+                "recipe_img": "/images/recipes/Chicken_and_Waffles.jpeg",
                 "ingredients": [
                     "chicken breast",
                     "waffle mix",
@@ -408,7 +408,7 @@
             },
             {
                 "recipe_id": 24,
-                "recipe_img": "https://example.com/recipe011.jpg",
+                "recipe_img": "/images/recipes/Shrimp_and_Grits.jpg",
                 "recipe_name": "Shrimp and Grits",
                 "ingredients": [
                     "shrimp",
